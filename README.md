@@ -6,7 +6,7 @@ The aim is to implement the quicksort algorithm in Python without using the buil
 
 Uses Python3.
 
-## Deploymnet
+## Deployment
 
 Copy `main.py` into the text editor of your choice.  If using terminal, use `python3 main.py` and press `Enter` to run the code.
 
